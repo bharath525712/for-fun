@@ -15,4 +15,4 @@ class Solution {
             return check(root1.left,root2.right) && check(root1.right,root2.left);
         }return false;
     }
-}
+}//chatgpt link about git ssh:https://chatgpt.com/share/ebf9b2ea-5410-4722-ad7b-5f412ea67c0c
